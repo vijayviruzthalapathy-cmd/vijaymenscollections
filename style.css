@@ -1,0 +1,8 @@
+body { font-family: sans-serif; padding: 10px; background: #fff0f5; }
+h1 { text-align: center; color: #ff1493; }
+input { width: 100%; padding: 8px; margin: 10px 0; }
+.products { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.product { border: 1px solid #ccc; padding: 5px; width: 45%; background: #fff; border-radius: 10px; }
+.product img { width: 100%; border-radius: 5px; }
+button { background: #ff69b4; border: none; padding: 8px; color: #fff; border-radius: 5px; cursor: pointer; width: 100%; margin-top: 5px; }
+button:hover { background: #ff1493; }
